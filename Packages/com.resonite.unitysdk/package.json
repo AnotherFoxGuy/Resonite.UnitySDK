@@ -1,0 +1,7 @@
+{
+  "name": "com.resonite.unitysdk",
+  "displayName": "Resonite SDK for Unity",
+  "version": "0.0.2",
+  "description": "This will allow sending content from Unity Editor to Resonite easily",
+  "hideInEditor": false
+}

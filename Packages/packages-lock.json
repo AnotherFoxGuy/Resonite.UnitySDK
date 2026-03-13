@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.resonite.unitysdk": {
+      "version": "file:com.resonite.unitysdk",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.resonite.unitysdk.builder": {
+      "version": "file:com.resonite.unitysdk.builder",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.11.2",
       "depth": 0,

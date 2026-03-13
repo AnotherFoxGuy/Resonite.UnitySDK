@@ -8,7 +8,7 @@ public class ResoniteSDK_Builder
     [MenuItem("Resonite SDK/Build UnityPackage")]
     public static void BuildUnityPackage()
     {
-        var files = Directory.EnumerateFiles("Assets/ResoniteSDK/", "*", SearchOption.AllDirectories)
+        var files = Directory.EnumerateFiles("Packages/com.resonite.unitysdk.builder", "*", SearchOption.AllDirectories)
             .Where(file => Path.GetExtension(file) != ".meta").ToArray();
 
         Debug.Log($"Building UnityPackage from files:\n{string.Join("\n", files)}");

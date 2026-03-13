@@ -1,0 +1,17 @@
+{
+    "name": "Resonite.UnitySDK",
+    "rootNamespace": "",
+    "references":[
+        "UnityEngine.Rendering",
+        "UnityEngine.SceneManagement"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
